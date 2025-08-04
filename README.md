@@ -1,6 +1,10 @@
 # Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation
-This temporary repository contains code for an efficient progessive fine-tuning approach to enhance the generalization of Neural Combinatorial Solvers on the real-world benchmark dataset for TSP (Traveling Salesman Problem) and CVRP (Capacitated Vehicle Routing Problem), namely TSPLib (Reinelt, 1991) and CVRPLib (Uchoa et al. 2017).
+This temporary repository contains code for an efficient progessive fine-tuning approach to enhance the generalization of Neural Combinatorial Solvers on the real-world benchmark dataset for TSP (Traveling Salesman Problem) and CVRP (Capacitated Vehicle Routing Problem), namely TSPLib (Reinelt, 1991) and CVRPLib (Uchoa et al. 2017).\
 
+
+## Our Repository
+Due to the upload limitation, we store our codes in a temporary Github repository: https://github.com/f3j40pqfap00/EvoReal-VRP_Generator_Guided_by_LLM-temp-/tree/main
+We encourage the interested readers to view and test our codes. 
 
 ## Dependencies
 
@@ -94,4 +98,6 @@ README.md
 ```
 
 
-
+## Dataset 
+**Important**
+One of the training dataset cannot be uploaded to github due to the size limit: please download the dataset from: https://drive.google.com/drive/folders/1xlkZ_EmkC8YLE8OqSRmvQXSR13qxTz0P?usp=sharing and place the file in this folder: /LEHD-EvoReal/TSP/LEHD_TSP_p1/TSP/data
