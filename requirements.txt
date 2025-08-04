@@ -1,0 +1,8 @@
+numpy==2.3.0
+psutil==7.0.0             
+torch==2.5.1
+vrplib==1.0.0
+tqdm==4.67.1
+pytz==2025.2
+matplotlib==3.10.3
+joblib==1.5.1
