@@ -99,5 +99,6 @@ README.md
 
 
 ## Dataset 
-**Important**
-One of the training dataset cannot be uploaded to github due to the size limit: please download the dataset from: https://drive.google.com/drive/folders/1xlkZ_EmkC8YLE8OqSRmvQXSR13qxTz0P?usp=sharing and place the file in this folder: /LEHD-EvoReal/TSP/LEHD_TSP_p1/TSP/data
+**Important** 
+
+One of the training dataset cannot be uploaded to github due to the size limit. Please download the dataset from: https://drive.google.com/drive/folders/1xlkZ_EmkC8YLE8OqSRmvQXSR13qxTz0P?usp=sharing and place the file in this folder: /LEHD-EvoReal/TSP/LEHD_TSP_p1/TSP/data
