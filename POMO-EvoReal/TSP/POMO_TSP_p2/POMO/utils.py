@@ -134,7 +134,7 @@ class TimeEstimator:
             count, total, elapsed_time_str, remain_time_str))
 
 
-# The following code is added by ZHU JIANGHAN
+# Functions below added by author
 def extract_file_number(folder_name):
     "Custom sort function: Extracts the first numeric value in the name and sorts by numeric value"
     numbers = re.findall(r'\d+', folder_name)  # Extract all numbers
