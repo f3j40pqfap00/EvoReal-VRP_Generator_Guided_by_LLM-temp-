@@ -91,7 +91,7 @@ class TimeEstimator:
         self.logger.info("Epoch {:3d}/{:3d}: Time Est.: Elapsed[{}], Remain[{}]".format(
             count, total, elapsed_time_str, remain_time_str))
 
-# Functions below added ZHU JIANGHAN
+# Functions below are added by author
 def extract_file_number(folder_name):
     "Custom sort function: Extracts the first numeric value in the name and sorts by numeric value"
     numbers = re.findall(r'\d+', folder_name)  # Extract all numbers
